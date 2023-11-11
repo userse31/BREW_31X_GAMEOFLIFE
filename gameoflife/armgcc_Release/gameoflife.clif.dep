@@ -1,0 +1,18 @@
+./Cgameoflife.h:
+./gameoflife_16x16.png:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEComdef.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEInterface.h:
+./gameoflife_50x50.png:
+gameoflife.cif:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/../inc/AEEStdDef.h:
+./gameoflife_26x26.png:
+./gameoflife_40x40.png:
+armgcc_Release/gameoflife.clif: ./gameoflife_50x50.png
+armgcc_Release/gameoflife.clif: ./gameoflife_16x16.png
+armgcc_Release/gameoflife.clif: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEInterface.h
+armgcc_Release/gameoflife.clif: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEComdef.h
+armgcc_Release/gameoflife.clif: ./gameoflife_26x26.png
+armgcc_Release/gameoflife.clif: ./gameoflife_40x40.png
+armgcc_Release/gameoflife.clif: gameoflife.cif
+armgcc_Release/gameoflife.clif: ./Cgameoflife.h
+armgcc_Release/gameoflife.clif: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/../inc/AEEStdDef.h

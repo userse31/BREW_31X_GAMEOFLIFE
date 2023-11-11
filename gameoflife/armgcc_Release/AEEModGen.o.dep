@@ -1,0 +1,112 @@
+AEEModGen.c:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEHeap.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEStdLib.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEModGen.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEAppGen.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/nmdef.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEE.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEOldVaList.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEComdef.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEShell.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEGroupIDs.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEError.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEEvent.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEECallback.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEDateTime.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEERect.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEInterface.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIImage.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIBase.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIApplet.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEQueryInterface.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIAStream.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEStdDef.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEVCodes.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEDisp.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEImage.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEESoundPlayer.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEControls_res.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEELngCode.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEDeviceItems.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEAFlags.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEMIF.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEClassIDs.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEENetErr.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEPortErr.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEInterface.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEStdErr.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIDisplay.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEImageInfo.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIQI.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEBitmap.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEFont.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEESound.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEECLSID_FILEMGR.bid:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIBitmap.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIDIB.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIFont.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIBitmapDev.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEISound.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEResourceCtl.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEERGBVAL.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEERasterOp.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEPoint.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIResourceCtl.h:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEECLSID_RESPRIV_SOUND.BID:
+C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEResCtlSound.bid:
+armgcc_Release/AEEModGen.o: AEEModGen.c
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEHeap.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEStdLib.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEModGen.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEAppGen.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/nmdef.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEE.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEOldVaList.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEComdef.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEShell.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEGroupIDs.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEError.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEEvent.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEECallback.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEDateTime.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEERect.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEInterface.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIImage.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIBase.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIApplet.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEQueryInterface.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIAStream.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEStdDef.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEVCodes.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEDisp.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEImage.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEESoundPlayer.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEControls_res.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEELngCode.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEDeviceItems.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEAFlags.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEMIF.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEClassIDs.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEENetErr.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEPortErr.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEInterface.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEStdErr.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIDisplay.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEImageInfo.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIQI.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEBitmap.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEFont.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEESound.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEECLSID_FILEMGR.bid
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIBitmap.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIDIB.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIFont.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIBitmapDev.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEISound.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEEResourceCtl.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEERGBVAL.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEERasterOp.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEPoint.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEIResourceCtl.h
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/sdk/inc/AEECLSID_RESPRIV_SOUND.BID
+armgcc_Release/AEEModGen.o: C:/PROGRA~1/Qualcomm/BREWMP~1/PLATFO~1/BREW31~1.5SP/inc/AEEResCtlSound.bid
